@@ -1,0 +1,17 @@
+{
+    "name": "createivo/db",
+    "description": "db class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Createivo\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Alaa",
+            "email": "ahmedbahnacy5@gmail.com"
+        }
+    ],
+    "require": {}
+}
